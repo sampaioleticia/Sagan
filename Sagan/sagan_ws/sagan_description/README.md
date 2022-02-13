@@ -1,0 +1,2 @@
+Sagan se trata do robô explorador projetado e desenvolvido pelo Grupo de Robôtica Móvel (GERM) da Universidade do Estado de Santa Catarina (UDESC).
+Estes arquivos possuem a programação basica para desenvolvimento de um robô no ROS2 Gazebo Galactic. 
